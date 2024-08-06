@@ -1,0 +1,18 @@
+nav {
+  margin: auto;
+  border: 20px;
+  padding: 20px;
+  background-color: aqua;
+}
+#showcase {
+  margin: auto;
+  background-color: blue;
+  padding: 5px;
+}
+#how-it-works {
+  margin: auto;
+  background-color: red;
+}
+a {
+  padding: 10px;
+}

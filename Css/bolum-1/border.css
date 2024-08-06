@@ -1,0 +1,35 @@
+nav {
+  margin: auto;
+  border: 20px;
+  padding: 20px;
+  background-color: aqua;
+  border-bottom: 3px solid red;
+}
+.links {
+  border: 20px;
+  text-align: right;
+  text-shadow: red;
+  text-decoration: none;
+}
+nav.links:hover {
+  color: yellow;
+}
+
+#showcase {
+  margin: auto;
+  background-color: blue;
+  padding: 5px;
+}
+#how-it-works {
+  margin: auto;
+  background-color: red;
+  border: 5px solid green;
+  border-width: 5px;
+  border-style: solid;
+  border-color: aqua;
+}
+a {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

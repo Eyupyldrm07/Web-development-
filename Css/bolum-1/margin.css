@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+#showcase {
+  background-color: #2e4c6d;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+#how-it-works {
+  background-color: red;
+  margin: auto;
+  width: 500px;
+}

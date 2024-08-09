@@ -42,13 +42,19 @@
 
 // Travelsal Elements
 // let sonuc;
+
 // ul = document.getElementById("task-list");
 
-// sonuc = ul.childeren;
-// sonuc = ul.childeren[0];
-// sonuc = ul.firtsElementChild;
-// sonuc = ul.lastElementChild;
+// // // children, firstElementChild, lastElementChild
+// // // parentElement
+// // // nextElementSibling, previousElementSibling
 
-// sonuc = document.getElementById("title").parentElement;
+// sonuc = ul.children;
+// ul.children[0].children[0].children[0].checked = true;
+// // sonuc = ul.firstElementChild;
+// // sonuc = ul.lastElementChild;
+
+// // sonuc = document.getElementById("title").parentElement;
+// // sonuc = document.querySelector(".task").nextElementSibling.nextElementSibling.previousElementSibling;
 
 // console.log(sonuc);

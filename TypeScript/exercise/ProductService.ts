@@ -27,6 +27,13 @@ class ProductService implements IProductService{
             this.products.push(product);
         }else{
             let index=this.products.indexOf(product);
+
+            for (let i=0; i<this.products.lenght:i++){
+                if (this.products[i].id===product.id){
+                    index=i;
+                }
+            }
+
             this.products.splice(index,1,product);
         }
     }

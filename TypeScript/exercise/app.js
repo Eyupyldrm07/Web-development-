@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var _productService = new ProdctService();
+var result;
+result = _productService.getById(2);
+var p = new Product();
+p.name = 'iphone 6';
+p.price = 4000;
+p.category = 'telefon';
+_productService.saveProduct(p);
+console.log(result);
